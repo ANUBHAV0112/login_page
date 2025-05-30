@@ -1,23 +1,41 @@
-# login-page-using-Python-and-MySQL
-It's a GUI project using python tkinter and MySQL database.
+# 🔐 Tkinter Login & Signup System with MySQL
 
-Make sure you already have installed all the modules used in this project. Please see the requirement.txt file for all the requirements.
+This is a desktop-based user authentication system built using **Tkinter** (Python's standard GUI library) and **PyMySQL** for MySQL database integration. The application includes login, signup, and password recovery features.
+
+---
+
+## 📦 Modules Used
+
+- `tkinter` — for creating GUI
+- `pymysql` — for connecting and executing queries on a MySQL database
+
+---
+
+## 🧩 Features
+
+✅ User Signup  
+✅ User Login  
+✅ Forgot Password  
+✅ Secure Password Storage (basic)  
+✅ Input Validation  
+✅ MySQL Integration  
+
+---
 
 
-Steps to follow after installing all the modules. Otherwise this application will not work properly.
+## 📸 UI Screenshots
 
-->Create a database with this name, "student_database"
-->create a table with this name, "student_register"
+### 🔑 Login Page
+![Login Page](./Screenshort/login%20page.png)
 
+### 📝 Signup Page
+![Signup Page](./Screenshort/Signup%20page.png)
 
-USE this code to create the table under the "student_database" database
+### 🔁 Forgot Password Page
+![Forgot Password Page](./Screenshort/forget%20password%20page.png)
 
-create table student_register(
-   f_name VARCHAR(50) NOT NULL,
-   l_name VARCHAR(50) NOT NULL,
-   email VARCHAR(100) NOT NULL,
-   question VARCHAR(50) NOT NULL,
-   answer VARCHAR(100) NOT NULL,
-   password VARCHAR(50) NOT NULL,
-   PRIMARY KEY ( email )
-);
+### 📋 Login Page Data (Backend Logic)
+![Login Data](./Screenshort/login%20database.png)
+
+### 🗃️ Signup Page Data (Backend Logic)
+![Signup Data](./Screenshort/SignUp%20database.png)
