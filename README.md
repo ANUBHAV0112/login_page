@@ -39,3 +39,7 @@ This is a desktop-based user authentication system built using **Tkinter** (Pyth
 
 ### 🗃️ Signup Page Data (Backend Logic)
 ![Signup Data](./Screenshort/SignUp%20database.png)
+
+
+🧑‍💻 Author
+Anubhav Choudhary
