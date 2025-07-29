@@ -41,5 +41,11 @@ This is a desktop-based user authentication system built using **Tkinter** (Pyth
 ![Signup Data](./Screenshort/SignUp%20database.png)
 
 
-🧑‍💻 Author
-Anubhav Choudhary
+---
+
+## 👨‍💻 Author
+
+**Anubhav Choudhary**  
+[LinkedIn](https://www.linkedin.com/in/anubhav-choudhary-35b8ab254/) | [GitHub](https://github.com/ANUBHAV0112)
+
+---
